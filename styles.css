@@ -1,0 +1,29 @@
+
+
+img {
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+}
+
+.black {
+    background-color: black;
+    padding: 40px;
+    border-radius: 50%;
+}
+
+.blue {
+    max-width: 780px;
+    padding: 40px;
+    border-radius: 50%;
+    background-color: hsl(214deg 100% 59%);
+    background-color: #3578e5
+}
+
+.border {
+    border: 1px solid gray;
+    display: inline-block;
+}
+body {
+    background-color: black;
+}
